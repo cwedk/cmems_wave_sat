@@ -6,8 +6,6 @@ git clone git@github.com:cwedk/cmems_wave_sat.git
 
 Make sure you have conda/mamba. Install the environment cmems_sat_lab from the environment.yml
 
-Install openda-lab environment.
-
 
 ```sh
 conda env create -f environment.yml
@@ -27,7 +25,7 @@ jupyter lab
 or with vscode
 
 ```sh
-code 01-explore-results.ipynb
+code 01-get_sat_data.ipynb
 ```
 
 choose cmems_sat_lab  environment in kernel
