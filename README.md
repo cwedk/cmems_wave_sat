@@ -1,4 +1,4 @@
-Openda enviroment to explore 1d, 2d simplified versions of the openda-swan tests for the EnkF. Openda configs are stored under models/.../config/
+Notebook code examples to download and explore wave satellite altimetry from CMEMS
 
 ```sh
 git clone git@github.com:cwedk/cmems_wave_sat.git 
